@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Arukereso</string>
+    <string name="name">Felhasználónév</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email_address">Email cim</string>
+    <string name="jelsz_meger_s_t_se">Jelszó megerősítése</string>
+    <string name="cancel">Mégse</string>
+    <string name="Email">Email cím</string>
+    <string name="monitors">Monitorok</string>
+    <string name="mouses">Egerek</string>
+    <string name="keyboards">Billentyűzetek</string>
+    <string name="back">Vissza</string>
+
+    <string-array name="search_item_names">
+        <item>Monitor</item>
+        <item>Egér</item>
+        <item>Billentyűzet</item>
+    </string-array>
+
+    <string-array name="search_item_info">
+        <item>Ez egy monitor</item>
+        <item>Ez egy egér</item>
+        <item>Ez egy billentyűzet</item>
+    </string-array>
+
+    <array name="search_item_images">
+        <item>@drawable/kep_1</item>
+        <item>@drawable/kep_2</item>
+        <item>@drawable/kep_3</item>
+    </array>
+
+
+</resources>
