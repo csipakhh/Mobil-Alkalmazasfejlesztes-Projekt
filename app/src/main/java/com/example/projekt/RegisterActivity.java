@@ -60,6 +60,7 @@ public class RegisterActivity extends AppCompatActivity {
         if (!password.equals(passwordAgain)) {
             Log.e(LOG_TAG, "Nem egyezőek a jelszavak!");
             return;
+            
         }
         Log.i(LOG_TAG, "Regisztrált: " + userName + ", email " + userEmail);
 
